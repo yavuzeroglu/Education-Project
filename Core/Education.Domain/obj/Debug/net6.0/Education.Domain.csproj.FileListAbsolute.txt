@@ -1,0 +1,15 @@
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\bin\Debug\net6.0\Education.Domain.deps.json
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\bin\Debug\net6.0\Education.Domain.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\bin\Debug\net6.0\Education.Domain.pdb
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\obj\Debug\net6.0\Education.Domain.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\obj\Debug\net6.0\Education.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\obj\Debug\net6.0\Education.Domain.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\obj\Debug\net6.0\Education.Domain.AssemblyInfo.cs
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\obj\Debug\net6.0\Education.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\obj\Debug\net6.0\Education.Domain.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\obj\Debug\net6.0\refint\Education.Domain.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\obj\Debug\net6.0\Education.Domain.pdb
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\obj\Debug\net6.0\ref\Education.Domain.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\bin\Debug\net6.0\Core.Persistance.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\bin\Debug\net6.0\Core.Persistance.pdb
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Domain\obj\Debug\net6.0\Education.Domain.csproj.CopyComplete

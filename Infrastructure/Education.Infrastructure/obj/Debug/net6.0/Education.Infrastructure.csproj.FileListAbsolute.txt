@@ -1,0 +1,12 @@
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\bin\Debug\net6.0\Education.Infrastructure.deps.json
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\bin\Debug\net6.0\Education.Infrastructure.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\bin\Debug\net6.0\Education.Infrastructure.pdb
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\obj\Debug\net6.0\Education.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\obj\Debug\net6.0\Education.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\obj\Debug\net6.0\Education.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\obj\Debug\net6.0\Education.Infrastructure.AssemblyInfo.cs
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\obj\Debug\net6.0\Education.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\obj\Debug\net6.0\Education.Infrastructure.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\obj\Debug\net6.0\refint\Education.Infrastructure.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\obj\Debug\net6.0\Education.Infrastructure.pdb
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\obj\Debug\net6.0\ref\Education.Infrastructure.dll

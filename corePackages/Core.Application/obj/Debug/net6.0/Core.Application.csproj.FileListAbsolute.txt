@@ -1,0 +1,12 @@
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.deps.json
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.pdb
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.AssemblyInfo.cs
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\corePackages\Core.Application\obj\Debug\net6.0\refint\Core.Application.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.pdb
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\corePackages\Core.Application\obj\Debug\net6.0\ref\Core.Application.dll
