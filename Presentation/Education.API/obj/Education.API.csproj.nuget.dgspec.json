@@ -292,6 +292,10 @@
               "target": "Package",
               "version": "[11.0.0, )"
             },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
             "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
               "version": "[11.2.1, )"
@@ -299,6 +303,14 @@
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
             }
           },
           "imports": [
@@ -367,6 +379,86 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\Education.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\Education.Infrastructure.csproj",
+        "projectName": "Education.Infrastructure",
+        "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\Education.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj": {
+                "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -517,6 +609,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\Education.Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\Education.Infrastructure.csproj"
+              },
               "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Persistance\\Education.Persistance.csproj": {
                 "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Persistance\\Education.Persistance.csproj"
               }

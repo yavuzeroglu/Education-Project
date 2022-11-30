@@ -1,8 +1,9 @@
 ﻿using Core.Application.Requests;
+using Education.Application.Features.SubjectImageFiles.Commands.UploadSubjectFiles;
+using Education.Application.Features.SubjectImageFiles.DTOs;
 using Education.Application.Features.Subjects.Commands.CreateSubject;
 using Education.Application.Features.Subjects.Commands.DeleteSubject;
 using Education.Application.Features.Subjects.Commands.UpdateSubject;
-using Education.Application.Features.Subjects.Models;
 using Education.Application.Features.Subjects.Queries.GetByIdSubject;
 using Education.Application.Features.Subjects.Queries.GetListSubject;
 using MediatR;
@@ -15,10 +16,13 @@ namespace Education.API.Controllers
     public class SubjectsController : ControllerBase
     {
         private readonly IMediator _mediator;
+        private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public SubjectsController(IMediator mediator)
+
+        public SubjectsController(IMediator mediator, IWebHostEnvironment webHostEnvironment)
         {
             _mediator = mediator;
+            _webHostEnvironment = webHostEnvironment;
         }
 
         [HttpGet]
@@ -57,6 +61,13 @@ namespace Education.API.Controllers
             return Ok(response);
         }
 
+        [HttpPost("[action]")]
+        public async Task<IActionResult> Upload([FromQuery] UploadSubjectFilesCommand uploadSubjectFilesCommand)
+        {
+            uploadSubjectFilesCommand.Files = Request.Form.Files;
+            UploadSubjectImageFileDto uploadSubjectImageFileDto = await _mediator.Send(uploadSubjectFilesCommand);
+            return Ok();
+        }
 
     }
 }

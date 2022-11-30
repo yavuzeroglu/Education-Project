@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -8,8 +8,12 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
     <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.2.1" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.10" />
   </ItemGroup>
 
   <ItemGroup>
@@ -20,6 +24,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Features\SubjectImageFiles\Models\" />
+    <Folder Include="Features\SubjectImageFiles\Rules\" />
+    <Folder Include="Features\SubjectImageFiles\Queries\" />
+    <Folder Include="Features\SubjectImageFiles\Profiles\" />
     <Folder Include="Features\Exams\Rules\" />
     <Folder Include="Features\Questions\Rules\" />
   </ItemGroup>

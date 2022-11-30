@@ -1,5 +1,7 @@
  using Core.CrossCuttingConcerns.Exceptions;
 using Education.Application;
+using Education.Infrastructure;
+using Education.Infrastructure.Services.Storage.Local;
 using Education.Persistance;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +10,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddPersistanceServices();
 builder.Services.AddApplicationServices();
+builder.Services.AddInfrastructureServices();
+
+builder.Services.AddStorage<LocalStorage>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -22,6 +27,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseStaticFiles();
 
 //if (app.Environment.IsDevelopment())
 //    app.ConfigureCustomExceptionMiddleware();

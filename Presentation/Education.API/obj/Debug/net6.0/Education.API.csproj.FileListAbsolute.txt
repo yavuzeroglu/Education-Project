@@ -90,3 +90,8 @@ C:\Users\fatih\Desktop\egitim-proje\Education-Project\Presentation\Education.API
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Presentation\Education.API\bin\Debug\net6.0\Core.Application.pdb
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Presentation\Education.API\obj\Debug\net6.0\Education.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Presentation\Education.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Presentation\Education.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Presentation\Education.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Presentation\Education.API\bin\Debug\net6.0\Education.API.staticwebassets.runtime.json
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Presentation\Education.API\bin\Debug\net6.0\Education.Infrastructure.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Presentation\Education.API\bin\Debug\net6.0\Education.Infrastructure.pdb

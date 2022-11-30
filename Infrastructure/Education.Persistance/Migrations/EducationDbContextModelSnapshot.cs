@@ -17,7 +17,7 @@ namespace Education.Persistance.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "6.0.5")
+                .HasAnnotation("ProductVersion", "6.0.10")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
@@ -78,6 +78,33 @@ namespace Education.Persistance.Migrations
                     b.HasIndex("SubjectId");
 
                     b.ToTable("Exams");
+                });
+
+            modelBuilder.Entity("Education.Domain.Entities.File", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("Discriminator")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FileName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Path")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Files");
+
+                    b.HasDiscriminator<string>("Discriminator").HasValue("File");
                 });
 
             modelBuilder.Entity("Education.Domain.Entities.Lesson", b =>
@@ -205,6 +232,40 @@ namespace Education.Persistance.Migrations
                     b.ToTable("Subjects");
                 });
 
+            modelBuilder.Entity("SubjectSubjectImageFile", b =>
+                {
+                    b.Property<int>("SubjectImageFilesId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("SubjectsId")
+                        .HasColumnType("int");
+
+                    b.HasKey("SubjectImageFilesId", "SubjectsId");
+
+                    b.HasIndex("SubjectsId");
+
+                    b.ToTable("SubjectSubjectImageFile");
+                });
+
+            modelBuilder.Entity("Education.Domain.Entities.DocumentFile", b =>
+                {
+                    b.HasBaseType("Education.Domain.Entities.File");
+
+                    b.Property<int>("SubjectId")
+                        .HasColumnType("int");
+
+                    b.HasIndex("SubjectId");
+
+                    b.HasDiscriminator().HasValue("DocumentFile");
+                });
+
+            modelBuilder.Entity("Education.Domain.Entities.SubjectImageFile", b =>
+                {
+                    b.HasBaseType("Education.Domain.Entities.File");
+
+                    b.HasDiscriminator().HasValue("SubjectImageFile");
+                });
+
             modelBuilder.Entity("CourseStudent", b =>
                 {
                     b.HasOne("Education.Domain.Entities.Course", null)
@@ -267,6 +328,32 @@ namespace Education.Persistance.Migrations
                     b.Navigation("Lesson");
                 });
 
+            modelBuilder.Entity("SubjectSubjectImageFile", b =>
+                {
+                    b.HasOne("Education.Domain.Entities.SubjectImageFile", null)
+                        .WithMany()
+                        .HasForeignKey("SubjectImageFilesId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Education.Domain.Entities.Subject", null)
+                        .WithMany()
+                        .HasForeignKey("SubjectsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Education.Domain.Entities.DocumentFile", b =>
+                {
+                    b.HasOne("Education.Domain.Entities.Subject", "Subject")
+                        .WithMany("DocumentFiles")
+                        .HasForeignKey("SubjectId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Subject");
+                });
+
             modelBuilder.Entity("Education.Domain.Entities.Course", b =>
                 {
                     b.Navigation("Lessons");
@@ -284,6 +371,8 @@ namespace Education.Persistance.Migrations
 
             modelBuilder.Entity("Education.Domain.Entities.Subject", b =>
                 {
+                    b.Navigation("DocumentFiles");
+
                     b.Navigation("Exams");
                 });
 #pragma warning restore 612, 618

@@ -18,6 +18,9 @@ namespace Education.Persistance
             services.AddScoped<ISubjectRepository, SubjectRepository>();
             services.AddScoped<IExamRepository, ExamRepository>();
             services.AddScoped<IQuestionRepository, QuestionRepository>();
+            services.AddScoped<IFileRepository, FileRepository>();
+            services.AddScoped<ISubjectImageFileRepository, SubjectImageFileRepository>();
+            services.AddScoped<IDocumentFileRepository, DocumentFileRepository>();
 
             return services;
         }

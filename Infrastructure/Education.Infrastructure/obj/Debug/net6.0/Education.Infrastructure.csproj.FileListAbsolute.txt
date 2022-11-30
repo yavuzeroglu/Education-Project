@@ -10,3 +10,14 @@ C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.I
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\obj\Debug\net6.0\refint\Education.Infrastructure.dll
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\obj\Debug\net6.0\Education.Infrastructure.pdb
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\obj\Debug\net6.0\ref\Education.Infrastructure.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\bin\Debug\net6.0\Core.Application.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\bin\Debug\net6.0\Core.CrossCuttingConcerns.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\bin\Debug\net6.0\Core.Persistance.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\bin\Debug\net6.0\Education.Application.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\bin\Debug\net6.0\Education.Domain.dll
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\bin\Debug\net6.0\Education.Application.pdb
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\bin\Debug\net6.0\Core.Application.pdb
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\bin\Debug\net6.0\Core.Persistance.pdb
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\bin\Debug\net6.0\Education.Domain.pdb
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Infrastructure\Education.Infrastructure\obj\Debug\net6.0\Education.Infrastructure.csproj.CopyComplete

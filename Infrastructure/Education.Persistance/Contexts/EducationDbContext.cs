@@ -1,5 +1,4 @@
-﻿using Core.Persistance.Repositories;
-using Education.Domain.Entities;
+﻿using Education.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Education.Persistance.Contexts
@@ -17,9 +16,13 @@ namespace Education.Persistance.Contexts
         public DbSet<Subject> Subjects { get; set; }
         public DbSet<Exam> Exams { get; set; }
         public DbSet<Question> Questions { get; set; }
+        public DbSet<Domain.Entities.File> Files { get; set; }
+        public DbSet<DocumentFile> DocumentFiles { get; set; }
+        public DbSet<SubjectImageFile> SubjectImageFiles { get; set; }
 
 
-        
-        
+
+
+
     }
 }

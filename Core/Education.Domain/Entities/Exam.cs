@@ -6,6 +6,7 @@ namespace Education.Domain.Entities
     {
         public int SubjectId { get; set; }
         public virtual Subject? Subject { get; set; }
+
         public virtual ICollection<Course> Courses { get; set; }
 
         public Exam()

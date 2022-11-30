@@ -5,5 +5,6 @@ namespace Education.Application.Services.Repositories
 {
     public interface ISubjectRepository : IAsyncRepository<Subject>, IRepository<Subject>
     {
+        
     }
 }

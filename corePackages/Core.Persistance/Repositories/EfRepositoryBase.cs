@@ -3,6 +3,7 @@ using Core.Persistance.Paging;
 using Microsoft.EntityFrameworkCore.Query;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace Core.Persistance.Repositories
 {
@@ -134,6 +135,13 @@ namespace Core.Persistance.Repositories
             return entity;
         }
 
+        public DbSet<TEntity> Table => Context.Set<TEntity>();
 
+        public async Task<bool> AddRangeAsync(List<TEntity> datas)
+        {
+            await Table.AddRangeAsync(datas);
+            Context.SaveChanges();
+            return true;
+        }
     }
 }
