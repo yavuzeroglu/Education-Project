@@ -1,4 +1,5 @@
 ﻿using Core.Application.Requests;
+using Education.Application.Features.SubjectImageFiles.Commands.RemoveSubjectImageFile;
 using Education.Application.Features.SubjectImageFiles.Commands.UploadSubjectFiles;
 using Education.Application.Features.SubjectImageFiles.DTOs;
 using Education.Application.Features.Subjects.Commands.CreateSubject;
@@ -66,6 +67,15 @@ namespace Education.API.Controllers
         {
             uploadSubjectFilesCommand.Files = Request.Form.Files;
             UploadSubjectImageFileDto uploadSubjectImageFileDto = await _mediator.Send(uploadSubjectFilesCommand);
+            return Ok();
+        }
+
+        [HttpDelete("[action]/{Id}")]
+        public async Task<IActionResult> DeleteSubjectImage([FromRoute] RemoveSubjectImageFileCommand removeSubjectImageFileCommand, [FromQuery] int imageId)
+        {
+            removeSubjectImageFileCommand.ImageId = imageId;
+            RemoveSubjectImageFileDto response = await _mediator.Send(removeSubjectImageFileCommand);
+
             return Ok();
         }
 

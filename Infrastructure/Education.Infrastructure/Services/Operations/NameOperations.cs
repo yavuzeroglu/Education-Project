@@ -24,8 +24,7 @@ namespace Education.Infrastructure.Services.Operations
             name.Replace("î", "i");
             name.Replace("\"", "");
 
-            char[] replacerList = @"$€æ%#°!*?;:`~+=()[]{}|'^&"".".ToCharArray();
-
+            char[] replacerList = @"$€æ%#°!*?;:~`+=()[]{}|\'<>,/^&"".".ToCharArray();
             for (int i = 0; i < replacerList.Length; i++)
             {
                 string strChr = replacerList[i].ToString();
@@ -34,12 +33,10 @@ namespace Education.Infrastructure.Services.Operations
                     name = name.Replace(strChr, string.Empty);
                 }
             }
-
             Regex regex = new Regex("[^a-zA-Z0-9_-]");
             name = regex.Replace(name, "-");
             while (name.IndexOf("--", StringComparison.Ordinal) > -1)
                 name = name.Replace("--", "-");
-
             return name;
         }
     }

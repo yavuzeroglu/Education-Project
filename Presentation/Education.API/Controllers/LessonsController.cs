@@ -41,7 +41,7 @@ namespace Education.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] CreateLessonCommand createLessonCommand)
         {
-            var response = _mediator.Send(createLessonCommand);
+            var response = await _mediator.Send(createLessonCommand);
             return Ok();
         }
 

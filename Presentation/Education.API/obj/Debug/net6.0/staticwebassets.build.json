@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5mbRGoJHWVD3e057gOUm9KE9FxpdKHQJtohV8qV0hec=",
+  "Hash": "As0Hwkw3MjGDbgxhECpfnBw5364bFhmK+JCN6QJ/UYU=",
   "Source": "Education.API",
   "BasePath": "_content/Education.API",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\resource\\subject-images\\1100238968.jpg",
+      "Identity": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\subject-images\\2-Cepli-Enstr-mental-Po-1-1.jpg",
       "SourceId": "Education.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\",
       "BasePath": "_content/Education.API",
-      "RelativePath": "resource/subject-images/1100238968.jpg",
+      "RelativePath": "subject-images/2-Cepli-Enstr-mental-Po-1-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,41 +31,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resource\\subject-images\\1100238968.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\resource\\subject-images\\1985923756.mp4",
-      "SourceId": "Education.API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\",
-      "BasePath": "_content/Education.API",
-      "RelativePath": "resource/subject-images/1985923756.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resource\\subject-images\\1985923756.mp4"
-    },
-    {
-      "Identity": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\resource\\subject-images\\WhatsApp Video 2022-11-30 at 16.28.40.mp4",
-      "SourceId": "Education.API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\",
-      "BasePath": "_content/Education.API",
-      "RelativePath": "resource/subject-images/WhatsApp Video 2022-11-30 at 16.28.40.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resource\\subject-images\\WhatsApp Video 2022-11-30 at 16.28.40.mp4"
+      "OriginalItemSpec": "wwwroot\\subject-images\\2-Cepli-Enstr-mental-Po-1-1.jpg"
     },
     {
       "Identity": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\subject-images\\Ameliyat-Po-lar-ve-nl-kleri-1.png",
@@ -83,23 +49,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\subject-images\\Ameliyat-Po-lar-ve-nl-kleri-1.png"
-    },
-    {
-      "Identity": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\subject-images\\Files-1",
-      "SourceId": "Education.API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\",
-      "BasePath": "_content/Education.API",
-      "RelativePath": "subject-images/Files-1",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\subject-images\\Files-1"
     },
     {
       "Identity": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\subject-images\\Perk-tan-rt-Seti-1.png",
@@ -134,23 +83,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\subject-images\\Sistoskopi-rt-Seti-1.png"
-    },
-    {
-      "Identity": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\subject-images\\WhatsApp-Video-2022-11-30-at-162840-1.mp4",
-      "SourceId": "Education.API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\",
-      "BasePath": "_content/Education.API",
-      "RelativePath": "subject-images/WhatsApp-Video-2022-11-30-at-162840-1.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\subject-images\\WhatsApp-Video-2022-11-30-at-162840-1.mp4"
     },
     {
       "Identity": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\subject-images\\yilmaz-gibi-1.jfif",

@@ -1,24 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\resource\\subject-images\\1100238968.jpg",
-      "PackagePath": "staticwebassets\\resource\\subject-images\\1100238968.jpg"
-    },
-    {
-      "Id": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\resource\\subject-images\\1985923756.mp4",
-      "PackagePath": "staticwebassets\\resource\\subject-images\\1985923756.mp4"
-    },
-    {
-      "Id": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\resource\\subject-images\\WhatsApp Video 2022-11-30 at 16.28.40.mp4",
-      "PackagePath": "staticwebassets\\resource\\subject-images\\WhatsApp Video 2022-11-30 at 16.28.40.mp4"
+      "Id": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\subject-images\\2-Cepli-Enstr-mental-Po-1-1.jpg",
+      "PackagePath": "staticwebassets\\subject-images\\2-Cepli-Enstr-mental-Po-1-1.jpg"
     },
     {
       "Id": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\subject-images\\Ameliyat-Po-lar-ve-nl-kleri-1.png",
       "PackagePath": "staticwebassets\\subject-images\\Ameliyat-Po-lar-ve-nl-kleri-1.png"
-    },
-    {
-      "Id": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\subject-images\\Files-1",
-      "PackagePath": "staticwebassets\\subject-images"
     },
     {
       "Id": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\subject-images\\Perk-tan-rt-Seti-1.png",
@@ -27,10 +15,6 @@
     {
       "Id": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\subject-images\\Sistoskopi-rt-Seti-1.png",
       "PackagePath": "staticwebassets\\subject-images\\Sistoskopi-rt-Seti-1.png"
-    },
-    {
-      "Id": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\subject-images\\WhatsApp-Video-2022-11-30-at-162840-1.mp4",
-      "PackagePath": "staticwebassets\\subject-images\\WhatsApp-Video-2022-11-30-at-162840-1.mp4"
     },
     {
       "Id": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Presentation\\Education.API\\wwwroot\\subject-images\\yilmaz-gibi-1.jfif",
