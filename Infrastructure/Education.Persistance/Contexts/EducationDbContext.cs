@@ -1,12 +1,12 @@
 ﻿using Education.Domain.Entities;
+using Education.Domain.Entities.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Education.Persistance.Contexts
 {
-    public class EducationDbContext : DbContext
+    public class EducationDbContext : IdentityDbContext<AppUser, AppRole, int>
     {
-
-
         public EducationDbContext(DbContextOptions dbContextOptions) : base(dbContextOptions)
         { }
 

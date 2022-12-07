@@ -1,7 +1,9 @@
 ﻿using Education.Application.Abstractions.Storage;
+using Education.Application.Abstractions.Tokens;
 using Education.Infrastructure.Enum;
 using Education.Infrastructure.Services.Storage;
 using Education.Infrastructure.Services.Storage.Local;
+using Education.Infrastructure.Services.Tokens;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Education.Infrastructure
@@ -11,7 +13,7 @@ namespace Education.Infrastructure
         public static void AddInfrastructureServices(this IServiceCollection services)
         {
             services.AddScoped<IStorageService, StorageService>();
-            //services.AddScoped<ITokenHandler, TokenHandler>();
+            services.AddScoped<ITokenHandler, TokenHandler>();
         }
 
         public static void AddStorage<T>(this IServiceCollection services) where T : Storage, IStorage

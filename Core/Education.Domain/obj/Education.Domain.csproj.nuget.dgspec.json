@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj": {}
+    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj": {
+    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj",
         "projectName": "Core.Persistance",
-        "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj",
+        "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\obj\\",
+        "outputPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -76,14 +76,14 @@
         }
       }
     },
-    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj": {
+    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj",
         "projectName": "Education.Domain",
-        "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj",
+        "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\obj\\",
+        "outputPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -107,8 +107,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj": {
-                "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj"
+              "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj": {
+                "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj"
               }
             }
           }
@@ -122,6 +122,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

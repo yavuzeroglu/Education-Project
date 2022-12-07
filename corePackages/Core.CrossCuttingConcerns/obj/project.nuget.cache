@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "656pKU7pKoiyFDOuItaad5E9nVoYl5MiysYQvxWOXhKapB1f/qwH5GaDiYQgRxqWzAJ9p2eWLfOTKFtSD2I/Lg==",
+  "dgSpecHash": "CJsqygZSlOmvxID5PTp11hY0F7kNR6xLpN8IsnRcv0ddQSTO/l06IdUT10Vx2XUMSZNqZV29yWJvbC3Fr18AfQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
+  "projectFilePath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatih\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

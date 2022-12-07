@@ -24,6 +24,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Features\AppUsers\Models\" />
+    <Folder Include="Features\AppUsers\Profiles\" />
+    <Folder Include="Features\AppUsers\Rules\" />
+    <Folder Include="Features\AppUsers\Queries\" />
     <Folder Include="Features\SubjectImageFiles\Models\" />
     <Folder Include="Features\SubjectImageFiles\Rules\" />
     <Folder Include="Features\SubjectImageFiles\Queries\" />

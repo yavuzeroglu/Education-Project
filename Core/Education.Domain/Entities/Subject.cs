@@ -9,6 +9,9 @@ namespace Education.Domain.Entities
         public bool IsActive { get; set; } = false;
         public int? LessonId { get; set; }
         public virtual Lesson? Lesson { get; set; }
+        
+
+
         public virtual ICollection<Exam> Exams { get; set; }
         public ICollection<SubjectImageFile> SubjectImageFiles { get; set; }
         public ICollection<DocumentFile> DocumentFiles { get; set; }

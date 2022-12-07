@@ -6,12 +6,14 @@ using Education.Application.Features.Courses.DTOs;
 using Education.Application.Features.Courses.Queries.GetByIdCourse;
 using Education.Application.Features.Courses.Queries.GetListCourse;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Education.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize(AuthenticationSchemes = "Admin")]
     public class CoursesController : ControllerBase
     {
         private readonly IMediator _mediator;

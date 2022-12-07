@@ -31,9 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.ElasticSearch", "coreP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Security", "corePackages\Core.Security\Core.Security.csproj", "{9930E573-865A-44D4-9833-E702F05908BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Persistance", "corePackages\Core.Persistance\Core.Persistance.csproj", "{2AE9D242-BC3C-4D0D-A641-4517ABACDFA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Persistance", "corePackages\Core.Persistance\Core.Persistance.csproj", "{2AE9D242-BC3C-4D0D-A641-4517ABACDFA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Mailing", "corePackages\Core.Mailing\Core.Mailing.csproj", "{5FAB9F7E-90F4-448B-99C4-EC39B4B23214}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Mailing", "corePackages\Core.Mailing\Core.Mailing.csproj", "{5FAB9F7E-90F4-448B-99C4-EC39B4B23214}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
