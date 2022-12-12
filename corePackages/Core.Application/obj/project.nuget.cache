@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9VkEkrfGt1KRN0verAbsdfU3s2NRycf2YBjFDNrgrej03OVpaK/IEabYgxCedfoV3VLgPNesHsDvdMAV+i30pw==",
+  "dgSpecHash": "Ar0Mr/mzUWcAqLhgmYgOgmWchKWy5qLGbqObnRyDKUheD3VUL5hNfZ7zLuNI89FyrOV1ScKT1RQYAzZZyCN+fQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\Core.Application.csproj",
+  "projectFilePath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\Core.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatih\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\fatih\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

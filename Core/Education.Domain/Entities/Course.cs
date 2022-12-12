@@ -6,9 +6,9 @@ namespace Education.Domain.Entities
     {
         public string Name { get; set; }
         public bool IsActive { get; set; } = false;
-        
-        // Exam Id ? 
+        // public int? ExamId { get; set; }
 
+        // public virtual Exam Exam { get; set; }
         public virtual ICollection<Student> Students { get; set; }
         public virtual ICollection<Lesson> Lessons { get; set; }
 

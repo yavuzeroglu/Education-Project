@@ -5,6 +5,7 @@ using Education.Application.Services.Repositories;
 using Education.Domain.Entities;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 
 namespace Education.Application.Features.Courses.Queries.GetListCourse
 {
@@ -13,11 +14,13 @@ namespace Education.Application.Features.Courses.Queries.GetListCourse
         private readonly IMapper _mapper;
         private readonly ICourseRepository _courseRepository;
         //private readonly CourseBusinessRules _courseBusinessRules;
+        private readonly ILogger<GetListCourseQueryHandler> _logger;
 
-        public GetListCourseQueryHandler(IMapper mapper, ICourseRepository courseRepository)
+        public GetListCourseQueryHandler(IMapper mapper, ICourseRepository courseRepository, ILogger<GetListCourseQueryHandler> logger)
         {
             _mapper = mapper;
             _courseRepository = courseRepository;
+            _logger = logger;
         }
         public async Task<CourseListModel> Handle(GetListCourseQuery request, CancellationToken cancellationToken)
         {
@@ -29,7 +32,7 @@ namespace Education.Application.Features.Courses.Queries.GetListCourse
                 );
 
             CourseListModel mappedCourse = _mapper.Map<CourseListModel>(courses);
-
+            _logger.LogInformation("Kurslar Listelendi");
             return mappedCourse;
         }
     }

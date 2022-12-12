@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7grW7L1v7BfLPFc6BFYgbd5SxDrXFvHUhAH9YCcgaNPgXFIxT9Zjd9dg4e/m7IDA1+HpLtoAQ4fm8yQcN97Esw==",
+  "dgSpecHash": "10m1jShTtEagJXVQhZ3ia55e/Tq9MdlX2VjUxRNytxf+HLyNO5lN127Bof99B+RmOoPHps1kVhjtNZARBEzySQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+  "projectFilePath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

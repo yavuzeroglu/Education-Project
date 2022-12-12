@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qFqlWOJpOzCyKwqEnDhssVYFPBIbAhTGRR1UqX9mmEGru1O9DWsVPKBmcvNivSzSl0TGb722svLl5odC95yPgA==",
+  "dgSpecHash": "1J/F4n6+Obshgua+k8jKW2tLlz8lTQtfdXKXffi7Knug8cRrdtpfiIXcAu3Ynp0odP5UtxpIXpsr314laS2SxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj",
+  "projectFilePath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatih\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\fatih\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

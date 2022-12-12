@@ -16,7 +16,7 @@ namespace Education.Application.Features.AppUsers.Commands.LoginUser
         public async Task<LoginUserDto> Handle(LoginUserCommand request, CancellationToken cancellationToken)
         {
 
-            var token = await _authService.LoginAsync(request.Email, request.Password, 150);
+            var token = await _authService.LoginAsync(request.Email, request.Password, 130);
             return new LoginUserSuccessResponse()
             {
                 Token = token

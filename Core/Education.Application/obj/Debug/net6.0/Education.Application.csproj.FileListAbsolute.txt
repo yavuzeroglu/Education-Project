@@ -1,8 +1,3 @@
-C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\obj\Debug\net6.0\Education.Application.csproj.AssemblyReference.cache
-C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\obj\Debug\net6.0\Education.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\obj\Debug\net6.0\Education.Application.AssemblyInfoInputs.cache
-C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\obj\Debug\net6.0\Education.Application.AssemblyInfo.cs
-C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\obj\Debug\net6.0\Education.Application.csproj.CoreCompileInputs.cache
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\bin\Debug\net6.0\Education.Application.deps.json
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\bin\Debug\net6.0\Education.Application.dll
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\bin\Debug\net6.0\Education.Application.pdb
@@ -14,6 +9,11 @@ C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\bin\Debug\net6.0\Core.Persistance.pdb
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\bin\Debug\net6.0\Education.Domain.pdb
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\obj\Debug\net6.0\Education.Application.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\obj\Debug\net6.0\Education.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\obj\Debug\net6.0\Education.Application.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\obj\Debug\net6.0\Education.Application.AssemblyInfo.cs
+C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\obj\Debug\net6.0\Education.Application.csproj.CoreCompileInputs.cache
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\obj\Debug\net6.0\Education.Application.csproj.CopyComplete
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\obj\Debug\net6.0\Education.Application.dll
 C:\Users\fatih\Desktop\egitim-proje\Education-Project\Core\Education.Application\obj\Debug\net6.0\refint\Education.Application.dll

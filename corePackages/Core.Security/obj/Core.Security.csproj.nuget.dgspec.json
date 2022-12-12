@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Security\\Core.Security.csproj": {}
+    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Security\\Core.Security.csproj": {}
   },
   "projects": {
-    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Security\\Core.Security.csproj": {
+    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Security\\Core.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Security\\Core.Security.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Security\\Core.Security.csproj",
         "projectName": "Core.Security",
-        "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Security\\Core.Security.csproj",
+        "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Security\\Core.Security.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Security\\obj\\",
+        "outputPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Security\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

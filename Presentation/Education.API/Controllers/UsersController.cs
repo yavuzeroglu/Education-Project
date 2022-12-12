@@ -25,11 +25,6 @@ namespace Education.API.Controllers
         }
 
 
-        [HttpPost("[action]")]
-        public async Task<IActionResult> Login([FromBody] LoginUserCommand loginUserCommand)
-        {
-           LoginUserDto response = await _mediator.Send(loginUserCommand);
-           return Ok(response);
-        }
+        
     }
 }

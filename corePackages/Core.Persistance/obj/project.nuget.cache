@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "clQLYgeQohNqLwg5Nf+yfw5st23MlLVMWKI07Xs8N/CofH31X5Fs81IXcAIbAvygQb3lbMhO6fVQbpv87zHTuA==",
+  "dgSpecHash": "6pRd6RROHhjusthwZxtJf2v7FRyc2b/BFUt2Y68GR3OgKINLmBwaCGuXwRfWQV/wH9TuXe/jPvqQpSjkX+CKxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj",
+  "projectFilePath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\fatih\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

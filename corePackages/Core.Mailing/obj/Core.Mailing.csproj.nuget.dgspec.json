@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {}
+    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {}
   },
   "projects": {
-    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {
+    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
         "projectName": "Core.Mailing",
-        "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+        "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Mailing\\obj\\",
+        "outputPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Mailing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\Education.Infrastructure.csproj": {}
+    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\Education.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\Core.Application.csproj": {
+    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\Core.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\Core.Application.csproj",
+        "projectUniqueName": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\Core.Application.csproj",
         "projectName": "Core.Application",
-        "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\Core.Application.csproj",
+        "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\Core.Application.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\obj\\",
+        "outputPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
+    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
+        "projectUniqueName": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
         "projectName": "Core.CrossCuttingConcerns",
-        "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
+        "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\obj\\",
+        "outputPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj": {
+    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj",
+        "projectUniqueName": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj",
         "projectName": "Core.Persistance",
-        "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj",
+        "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\obj\\",
+        "outputPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -232,14 +232,14 @@
         }
       }
     },
-    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj": {
+    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj",
+        "projectUniqueName": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj",
         "projectName": "Education.Application",
-        "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj",
+        "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\obj\\",
+        "outputPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -263,17 +263,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\Core.Application.csproj": {
-                "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\Core.Application.csproj"
+              "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\Core.Application.csproj": {
+                "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Application\\Core.Application.csproj"
               },
-              "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
-                "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj"
+              "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
+                "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj"
               },
-              "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj": {
-                "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj"
+              "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj": {
+                "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj"
               },
-              "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj": {
-                "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj"
+              "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj": {
+                "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj"
               }
             }
           }
@@ -333,14 +333,14 @@
         }
       }
     },
-    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj": {
+    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj",
         "projectName": "Education.Domain",
-        "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj",
+        "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\Education.Domain.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\obj\\",
+        "outputPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -364,8 +364,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj": {
-                "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj"
+              "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj": {
+                "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.Persistance\\Core.Persistance.csproj"
               }
             }
           }
@@ -405,14 +405,14 @@
         }
       }
     },
-    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\Education.Infrastructure.csproj": {
+    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\Education.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\Education.Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\Education.Infrastructure.csproj",
         "projectName": "Education.Infrastructure",
-        "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\Education.Infrastructure.csproj",
+        "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\Education.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Infrastructure\\Education.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -436,8 +436,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj": {
-                "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj"
+              "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj": {
+                "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\Core\\Education.Application\\Education.Application.csproj"
               }
             }
           }

@@ -1,5 +1,6 @@
 ﻿using Education.Application.Abstractions.Services.Users;
 using Education.Application.Abstractions.Services.Users.DTOs;
+using Education.Application.Exceptions;
 using Education.Domain.Entities.Identity;
 using Microsoft.AspNetCore.Identity;
 
@@ -37,6 +38,19 @@ namespace Education.Persistance.Services
                 }
 
             return response;
+        }
+
+        public async Task UpdateRefreshToken(string refreshToken, AppUser user, DateTime accessTokenDate, int addOnAccessTokenDate)
+        {
+            //AppUser user = await _userManager.FindByIdAsync(user.Id);
+            if (user != null) 
+            {
+                user.RefreshToken = refreshToken;
+                user.RefreshTokenEndDate = accessTokenDate.AddSeconds(addOnAccessTokenDate);
+                await _userManager.UpdateAsync(user);
+            }
+            else
+                throw new NotFoundUserException();
         }
     }
 }

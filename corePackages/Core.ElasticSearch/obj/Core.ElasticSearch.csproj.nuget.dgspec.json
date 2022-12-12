@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {}
+    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {}
   },
   "projects": {
-    "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {
+    "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
         "projectName": "Core.ElasticSearch",
-        "projectPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+        "projectPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.ElasticSearch\\obj\\",
+        "outputPath": "C:\\Users\\fatih\\Desktop\\egitim-proje\\Education-Project\\corePackages\\Core.ElasticSearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

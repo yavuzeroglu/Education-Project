@@ -5,5 +5,6 @@ namespace Education.Application.Abstractions.Services.Auth
     public interface IInternalAuthentication
     {
         Task<Token> LoginAsync(string email, string password, int accessTokenLifeTime);
+        Task<Token> RefreshTokenLoginAsync(string refreshToken);
     }
 }

@@ -18,12 +18,14 @@ namespace Education.API.Controllers
     {
         private readonly IMediator _mediator;
         private readonly IWebHostEnvironment _webHostEnvironment;
+        
 
 
         public SubjectsController(IMediator mediator, IWebHostEnvironment webHostEnvironment)
         {
             _mediator = mediator;
             _webHostEnvironment = webHostEnvironment;
+            
         }
 
         [HttpGet]

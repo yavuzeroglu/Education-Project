@@ -11,5 +11,6 @@ namespace Education.Application.Features.Courses.Commands.CreateCourse
     public class CreateCourseCommand : IRequest<CreateCourseDto>
     {
         public string Name { get; set; }
+        //public int? ExamId { get; set; }
     }
 }
